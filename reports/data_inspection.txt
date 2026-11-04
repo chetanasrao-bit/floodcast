@@ -1,0 +1,1108 @@
+
+======================================================================
+FILE: imdweb_-pMrE_nE.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_bkUWZd5o.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_N1r752Gu.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_N7kPb8sh.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_rTaGS9U0.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_syom1z67.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: imdweb_ujtC6eO7.nc
+DIMENSIONS: Frozen({})
+VARIABLES:
+COORDINATES:
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_ap_2001_2025.csv
+SHAPE: (173899, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo      Station Agency  State LGD Code           State  District LGD Code  District   Tehsil Block Village   River   Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Alladupalli    CWC              28  Andhra Pradesh                504  CUDDAPAH  CHAPADU     -       -  Pennar  Pennar   Kunderu            -               -     Kunderu  14.717222  78.668611      01-01-2001 09:30                                        97.58
+1     2  Alladupalli    CWC              28  Andhra Pradesh                504  CUDDAPAH  CHAPADU     -       -  Pennar  Pennar   Kunderu            -               -     Kunderu  14.717222  78.668611      02-01-2001 09:30                                       101.90
+2     3  Alladupalli    CWC              28  Andhra Pradesh                504  CUDDAPAH  CHAPADU     -       -  Pennar  Pennar   Kunderu            -               -     Kunderu  14.717222  78.668611      03-01-2001 09:30                                       107.00
+3     4  Alladupalli    CWC              28  Andhra Pradesh                504  CUDDAPAH  CHAPADU     -       -  Pennar  Pennar   Kunderu            -               -     Kunderu  14.717222  78.668611      04-01-2001 09:30                                       104.40
+4     5  Alladupalli    CWC              28  Andhra Pradesh                504  CUDDAPAH  CHAPADU     -       -  Pennar  Pennar   Kunderu            -               -     Kunderu  14.717222  78.668611      05-01-2001 09:30                                        99.52
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_cg_2001_2025.csv
+SHAPE: (198873, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo            Station Agency  State LGD Code         State  District LGD Code District  Tehsil   Block   Village     River     Basin   Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Ambabal (Narangi)    CWC              22  Chhattisgarh                374   BASTAR  BASTAR  BASTAR  Bhanpuri  Godavari  Godavari  Indravathi      Narangi               -     Narangi  19.296667  81.788889      01-01-2001 08:00                                     0.177647
+1     2  Ambabal (Narangi)    CWC              22  Chhattisgarh                374   BASTAR  BASTAR  BASTAR  Bhanpuri  Godavari  Godavari  Indravathi      Narangi               -     Narangi  19.296667  81.788889      02-01-2001 08:00                                     0.177647
+2     3  Ambabal (Narangi)    CWC              22  Chhattisgarh                374   BASTAR  BASTAR  BASTAR  Bhanpuri  Godavari  Godavari  Indravathi      Narangi               -     Narangi  19.296667  81.788889      03-01-2001 08:00                                     0.177647
+3     4  Ambabal (Narangi)    CWC              22  Chhattisgarh                374   BASTAR  BASTAR  BASTAR  Bhanpuri  Godavari  Godavari  Indravathi      Narangi               -     Narangi  19.296667  81.788889      04-01-2001 08:00                                     0.177647
+4     5  Ambabal (Narangi)    CWC              22  Chhattisgarh                374   BASTAR  BASTAR  BASTAR  Bhanpuri  Godavari  Godavari  Indravathi      Narangi               -     Narangi  19.296667  81.788889      05-01-2001 08:00                                     0.177647
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_dd_2001_2025.csv
+SHAPE: (349, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo Station Agency  State LGD Code        State  District LGD Code District Tehsil Block Village        River                                   Basin Tributary Subtributary SubSubtributary  Local River  Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1   DAMAN    CWC              38  Daman & Diu                463    Daman  Daman     -       -  Daman Ganga  West flowing rivers from Tapi to Tadri         -            -               -  Daman Ganga     20.41      72.84      08-06-2015 08:00                                      665.237
+1     2   DAMAN    CWC              38  Daman & Diu                463    Daman  Daman     -       -  Daman Ganga  West flowing rivers from Tapi to Tadri         -            -               -  Daman Ganga     20.41      72.84      12-06-2015 08:00                                      406.342
+2     3   DAMAN    CWC              38  Daman & Diu                463    Daman  Daman     -       -  Daman Ganga  West flowing rivers from Tapi to Tadri         -            -               -  Daman Ganga     20.41      72.84      15-06-2015 08:00                                      416.702
+3     4   DAMAN    CWC              38  Daman & Diu                463    Daman  Daman     -       -  Daman Ganga  West flowing rivers from Tapi to Tadri         -            -               -  Daman Ganga     20.41      72.84      19-06-2015 08:00                                      437.855
+4     5   DAMAN    CWC              38  Daman & Diu                463    Daman  Daman     -       -  Daman Ganga  West flowing rivers from Tapi to Tadri         -            -               -  Daman Ganga     20.41      72.84      22-06-2015 08:00                                      489.150
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_ga_2001_2025.csv
+SHAPE: (4020, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo Station Agency  State LGD Code State  District LGD Code   District   Tehsil Block Village    River                                   Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Collem    CWC              30   Goa                552  SOUTH GOA  SANGUEM     -       -  Mandavi  West flowing rivers from Tapi to Tadri  Khadepar            -               -    Khadepar  15.338611  74.248333      01-06-2016 08:00                                          0.0
+1     2  Collem    CWC              30   Goa                552  SOUTH GOA  SANGUEM     -       -  Mandavi  West flowing rivers from Tapi to Tadri  Khadepar            -               -    Khadepar  15.338611  74.248333      02-06-2016 08:00                                          0.0
+2     3  Collem    CWC              30   Goa                552  SOUTH GOA  SANGUEM     -       -  Mandavi  West flowing rivers from Tapi to Tadri  Khadepar            -               -    Khadepar  15.338611  74.248333      03-06-2016 08:00                                          0.0
+3     4  Collem    CWC              30   Goa                552  SOUTH GOA  SANGUEM     -       -  Mandavi  West flowing rivers from Tapi to Tadri  Khadepar            -               -    Khadepar  15.338611  74.248333      04-06-2016 08:00                                          0.0
+4     5  Collem    CWC              30   Goa                552  SOUTH GOA  SANGUEM     -       -  Mandavi  West flowing rivers from Tapi to Tadri  Khadepar            -               -    Khadepar  15.338611  74.248333      05-06-2016 08:00                                          0.0
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_gj_2001_2025.csv
+SHAPE: (98330, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo    Station Agency  State LGD Code    State  District LGD Code District Tehsil Block Village River Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Chakaliya    CWC              24  Gujarat                445    Dohad  DOHAD     -       -  Mahi  Mahi      Anas            -               -        Anas  23.051944  74.319722      01-01-2001 08:00                                          0.0
+1     2  Chakaliya    CWC              24  Gujarat                445    Dohad  DOHAD     -       -  Mahi  Mahi      Anas            -               -        Anas  23.051944  74.319722      02-01-2001 08:00                                          0.0
+2     3  Chakaliya    CWC              24  Gujarat                445    Dohad  DOHAD     -       -  Mahi  Mahi      Anas            -               -        Anas  23.051944  74.319722      03-01-2001 08:00                                          0.0
+3     4  Chakaliya    CWC              24  Gujarat                445    Dohad  DOHAD     -       -  Mahi  Mahi      Anas            -               -        Anas  23.051944  74.319722      04-01-2001 08:00                                          0.0
+4     5  Chakaliya    CWC              24  Gujarat                445    Dohad  DOHAD     -       -  Mahi  Mahi      Anas            -               -        Anas  23.051944  74.319722      05-01-2001 08:00                                          0.0
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_jh_2001_2025.csv
+SHAPE: (44704, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo    Station Agency  State LGD Code      State  District LGD Code             District               Tehsil Block Village         River         Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Adityapur    CWC              20  Jharkhand                343  PASHCHIMI SINGHBHUM  ADITYAPUR(GAMHARIA)     -       -  Subarnarekha  Subernarekha   Kharkai            -               -     Karkari  22.791389  86.173611      01-01-2001 08:30                                     2.260133
+1     2  Adityapur    CWC              20  Jharkhand                343  PASHCHIMI SINGHBHUM  ADITYAPUR(GAMHARIA)     -       -  Subarnarekha  Subernarekha   Kharkai            -               -     Karkari  22.791389  86.173611      02-01-2001 08:30                                     2.245079
+2     3  Adityapur    CWC              20  Jharkhand                343  PASHCHIMI SINGHBHUM  ADITYAPUR(GAMHARIA)     -       -  Subarnarekha  Subernarekha   Kharkai            -               -     Karkari  22.791389  86.173611      03-01-2001 08:30                                     2.079173
+3     4  Adityapur    CWC              20  Jharkhand                343  PASHCHIMI SINGHBHUM  ADITYAPUR(GAMHARIA)     -       -  Subarnarekha  Subernarekha   Kharkai            -               -     Karkari  22.791389  86.173611      04-01-2001 08:30                                     2.171137
+4     5  Adityapur    CWC              20  Jharkhand                343  PASHCHIMI SINGHBHUM  ADITYAPUR(GAMHARIA)     -       -  Subarnarekha  Subernarekha   Kharkai            -               -     Karkari  22.791389  86.173611      05-01-2001 08:30                                     2.367830
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_ka_2001_2025.csv
+SHAPE: (301293, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo Station Agency  State LGD Code      State  District LGD Code         District     Tehsil Block Village   River                                          Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  ADDOOR    CWC              29  Karnataka                534  Dakshin Kannada  MANGALORE     -       -  Gurpur  West flowing rivers from Tadri to Kanyakumari         -            -               -      Gurpur  12.928889  74.953889      17-07-2003 10:00                                    352.36197
+1     2  ADDOOR    CWC              29  Karnataka                534  Dakshin Kannada  MANGALORE     -       -  Gurpur  West flowing rivers from Tadri to Kanyakumari         -            -               -      Gurpur  12.928889  74.953889      18-07-2003 12:15                                    217.23427
+2     3  ADDOOR    CWC              29  Karnataka                534  Dakshin Kannada  MANGALORE     -       -  Gurpur  West flowing rivers from Tadri to Kanyakumari         -            -               -      Gurpur  12.928889  74.953889      19-07-2003 10:45                                    301.44235
+3     4  ADDOOR    CWC              29  Karnataka                534  Dakshin Kannada  MANGALORE     -       -  Gurpur  West flowing rivers from Tadri to Kanyakumari         -            -               -      Gurpur  12.928889  74.953889      20-07-2003 08:00                                    303.90000
+4     5  ADDOOR    CWC              29  Karnataka                534  Dakshin Kannada  MANGALORE     -       -  Gurpur  West flowing rivers from Tadri to Kanyakumari         -            -               -      Gurpur  12.928889  74.953889      21-07-2003 09:45                                    162.17972
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_kl_2001_2025.csv
+SHAPE: (217538, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo     Station Agency  State LGD Code   State  District LGD Code   District     Tehsil Block Village    River                                          Basin Tributary Subtributary SubSubtributary Local River  Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  ADKASTHALA    CWC              32  Kerala                558  KASARAGOD  KASARAGOD     -       -  Shiriya  West flowing rivers from Tadri to Kanyakumari   Shiriya      Shiriya         Shiriya     Shiriya    12.675     75.115      08-07-2019 08:00                                        52.95
+1     2  ADKASTHALA    CWC              32  Kerala                558  KASARAGOD  KASARAGOD     -       -  Shiriya  West flowing rivers from Tadri to Kanyakumari   Shiriya      Shiriya         Shiriya     Shiriya    12.675     75.115      09-07-2019 08:00                                        17.67
+2     3  ADKASTHALA    CWC              32  Kerala                558  KASARAGOD  KASARAGOD     -       -  Shiriya  West flowing rivers from Tadri to Kanyakumari   Shiriya      Shiriya         Shiriya     Shiriya    12.675     75.115      10-07-2019 08:00                                        41.64
+3     4  ADKASTHALA    CWC              32  Kerala                558  KASARAGOD  KASARAGOD     -       -  Shiriya  West flowing rivers from Tadri to Kanyakumari   Shiriya      Shiriya         Shiriya     Shiriya    12.675     75.115      11-07-2019 08:00                                        32.60
+4     5  ADKASTHALA    CWC              32  Kerala                558  KASARAGOD  KASARAGOD     -       -  Shiriya  West flowing rivers from Tadri to Kanyakumari   Shiriya      Shiriya         Shiriya     Shiriya    12.675     75.115      12-07-2019 08:00                                        15.95
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_mh_2001_2025.csv
+SHAPE: (332345, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo                Station Agency  State LGD Code        State  District LGD Code    District    Tehsil     Block   Village     River     Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Aheri (Gudem Bridge)     CWC              27  Maharashtra                475  Gadchiroli  SIRONCHA  SIRONCHA  Sironcha  Godavari  Godavari  Pranhita            -               -    Pranhita  19.416667  79.972222      13-06-2022 14:00                                      0.00000
+1     2  Aheri (Gudem Bridge)     CWC              27  Maharashtra                475  Gadchiroli  SIRONCHA  SIRONCHA  Sironcha  Godavari  Godavari  Pranhita            -               -    Pranhita  19.416667  79.972222      14-06-2022 08:00                                    132.85182
+2     3  Aheri (Gudem Bridge)     CWC              27  Maharashtra                475  Gadchiroli  SIRONCHA  SIRONCHA  Sironcha  Godavari  Godavari  Pranhita            -               -    Pranhita  19.416667  79.972222      15-06-2022 08:00                                    124.66323
+3     4  Aheri (Gudem Bridge)     CWC              27  Maharashtra                475  Gadchiroli  SIRONCHA  SIRONCHA  Sironcha  Godavari  Godavari  Pranhita            -               -    Pranhita  19.416667  79.972222      16-06-2022 08:00                                     96.18806
+4     5  Aheri (Gudem Bridge)     CWC              27  Maharashtra                475  Gadchiroli  SIRONCHA  SIRONCHA  Sironcha  Godavari  Godavari  Pranhita            -               -    Pranhita  19.416667  79.972222      17-06-2022 09:15                                     85.74126
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_ml_2001_2025 (1).csv
+SHAPE: (2206, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo Station Agency  State LGD Code      State  District LGD Code                District   Tehsil Block Village  River                                              Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1   Balat    CWC              17  Meghalaya                658  South West Khasi Hills  Ranikor     -       -  umngi  Minor rivers draining into Myanmar and Bangladesh         -            -               -       umngi  25.223889  91.355278      17-09-2019 09:00                                      264.719
+1     2   Balat    CWC              17  Meghalaya                658  South West Khasi Hills  Ranikor     -       -  umngi  Minor rivers draining into Myanmar and Bangladesh         -            -               -       umngi  25.223889  91.355278      18-09-2019 09:00                                      250.098
+2     3   Balat    CWC              17  Meghalaya                658  South West Khasi Hills  Ranikor     -       -  umngi  Minor rivers draining into Myanmar and Bangladesh         -            -               -       umngi  25.223889  91.355278      19-09-2019 09:00                                      161.168
+3     4   Balat    CWC              17  Meghalaya                658  South West Khasi Hills  Ranikor     -       -  umngi  Minor rivers draining into Myanmar and Bangladesh         -            -               -       umngi  25.223889  91.355278      20-09-2019 09:00                                      147.441
+4     5   Balat    CWC              17  Meghalaya                658  South West Khasi Hills  Ranikor     -       -  umngi  Minor rivers draining into Myanmar and Bangladesh         -            -               -       umngi  25.223889  91.355278      21-09-2019 09:00                                      124.945
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_mp_2001_2025.csv
+SHAPE: (298373, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo          Station Agency  State LGD Code           State  District LGD Code District   Tehsil Block Village    River    Basin Tributary Subtributary SubSubtributary Local River  Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Abna at Khandwa    CWC              23  Madhya Pradesh                405  Khandwa  Khandwa     -       -  Narmada  Narmada   Narmada      Narmada         Narmada     Narmada   21.8133    76.3253      01-06-2019 08:00                                          0.0
+1     2  Abna at Khandwa    CWC              23  Madhya Pradesh                405  Khandwa  Khandwa     -       -  Narmada  Narmada   Narmada      Narmada         Narmada     Narmada   21.8133    76.3253      02-06-2019 08:00                                          0.0
+2     3  Abna at Khandwa    CWC              23  Madhya Pradesh                405  Khandwa  Khandwa     -       -  Narmada  Narmada   Narmada      Narmada         Narmada     Narmada   21.8133    76.3253      03-06-2019 08:00                                          0.0
+3     4  Abna at Khandwa    CWC              23  Madhya Pradesh                405  Khandwa  Khandwa     -       -  Narmada  Narmada   Narmada      Narmada         Narmada     Narmada   21.8133    76.3253      04-06-2019 08:00                                          0.0
+4     5  Abna at Khandwa    CWC              23  Madhya Pradesh                405  Khandwa  Khandwa     -       -  Narmada  Narmada   Narmada      Narmada         Narmada     Narmada   21.8133    76.3253      05-06-2019 08:00                                          0.0
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_mz_2001_2025.csv
+SHAPE: (37933, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo  Station Agency  State LGD Code    State  District LGD Code   District     Tehsil Block Village     River                                              Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  ARCHUNG    CWC              15  Mizoram                264  LAWNGTLAI  LAWNGTLAI     -       -  Kolodyne  Minor rivers draining into Myanmar and Bangladesh    Tuipui            -               -      Tuipui  22.648889  93.535556      01-09-2025 08:00                                      167.122
+1     2  ARCHUNG    CWC              15  Mizoram                264  LAWNGTLAI  LAWNGTLAI     -       -  Kolodyne  Minor rivers draining into Myanmar and Bangladesh    Tuipui            -               -      Tuipui  22.648889  93.535556      02-09-2025 08:00                                      165.312
+2     3  ARCHUNG    CWC              15  Mizoram                264  LAWNGTLAI  LAWNGTLAI     -       -  Kolodyne  Minor rivers draining into Myanmar and Bangladesh    Tuipui            -               -      Tuipui  22.648889  93.535556      03-09-2025 08:00                                      163.912
+3     4  ARCHUNG    CWC              15  Mizoram                264  LAWNGTLAI  LAWNGTLAI     -       -  Kolodyne  Minor rivers draining into Myanmar and Bangladesh    Tuipui            -               -      Tuipui  22.648889  93.535556      04-09-2025 08:00                                      161.224
+4     5  ARCHUNG    CWC              15  Mizoram                264  LAWNGTLAI  LAWNGTLAI     -       -  Kolodyne  Minor rivers draining into Myanmar and Bangladesh    Tuipui            -               -      Tuipui  22.648889  93.535556      05-09-2025 08:00                                      162.032
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_od_2001_2025 (1).csv
+SHAPE: (198070, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo Station Agency  State LGD Code   State  District LGD Code   District     Tehsil Block Village     River                  Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Altuma    CWC              21  Odisha                352  DHENKANAL  Dhenkanal     -       -  Brahmani  Brahmani and Baitarni   Ramyala            -               -     Ramyala  20.930833  85.519167      01-01-2001 09:35                                         0.84
+1     2  Altuma    CWC              21  Odisha                352  DHENKANAL  Dhenkanal     -       -  Brahmani  Brahmani and Baitarni   Ramyala            -               -     Ramyala  20.930833  85.519167      02-01-2001 08:35                                         0.83
+2     3  Altuma    CWC              21  Odisha                352  DHENKANAL  Dhenkanal     -       -  Brahmani  Brahmani and Baitarni   Ramyala            -               -     Ramyala  20.930833  85.519167      03-01-2001 08:37                                         0.81
+3     4  Altuma    CWC              21  Odisha                352  DHENKANAL  Dhenkanal     -       -  Brahmani  Brahmani and Baitarni   Ramyala            -               -     Ramyala  20.930833  85.519167      04-01-2001 08:35                                         0.80
+4     5  Altuma    CWC              21  Odisha                352  DHENKANAL  Dhenkanal     -       -  Brahmani  Brahmani and Baitarni   Ramyala            -               -     Ramyala  20.930833  85.519167      05-01-2001 08:35                                         0.80
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_py_2001_2025.csv
+SHAPE: (17355, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo    Station Agency  State LGD Code       State  District LGD Code  District    Tehsil Block Village    River    Basin Tributary Subtributary SubSubtributary Local River  Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Annavasal    CWC              34  Puducherry                598  Karaikal  Karaikal     -       -  Cauvery  Cauvery         -            -               -      Nattar    10.975  79.753889      01-01-2001 08:30                                     2.672750
+1     2  Annavasal    CWC              34  Puducherry                598  Karaikal  Karaikal     -       -  Cauvery  Cauvery         -            -               -      Nattar    10.975  79.753889      02-01-2001 08:30                                     1.466649
+2     3  Annavasal    CWC              34  Puducherry                598  Karaikal  Karaikal     -       -  Cauvery  Cauvery         -            -               -      Nattar    10.975  79.753889      03-01-2001 17:30                                     1.377023
+3     4  Annavasal    CWC              34  Puducherry                598  Karaikal  Karaikal     -       -  Cauvery  Cauvery         -            -               -      Nattar    10.975  79.753889      04-01-2001 16:30                                     0.712000
+4     5  Annavasal    CWC              34  Puducherry                598  Karaikal  Karaikal     -       -  Cauvery  Cauvery         -            -               -      Nattar    10.975  79.753889      05-01-2001 09:15                                     0.236000
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_rj_2001_2025.csv
+SHAPE: (27008, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo   Station Agency  State LGD Code      State  District LGD Code District    Tehsil Block Village  River                                                       Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Abu Road    CWC               8  Rajasthan                115   SIROHI  ABU ROAD     -       -  Banas  West flowing rivers of Kutch and Saurashtra including Luni         -            -               -       Banas  24.493611  72.790278      01-06-2005 08:00                                          0.0
+1     2  Abu Road    CWC               8  Rajasthan                115   SIROHI  ABU ROAD     -       -  Banas  West flowing rivers of Kutch and Saurashtra including Luni         -            -               -       Banas  24.493611  72.790278      02-06-2005 08:00                                          0.0
+2     3  Abu Road    CWC               8  Rajasthan                115   SIROHI  ABU ROAD     -       -  Banas  West flowing rivers of Kutch and Saurashtra including Luni         -            -               -       Banas  24.493611  72.790278      03-06-2005 08:00                                          0.0
+3     4  Abu Road    CWC               8  Rajasthan                115   SIROHI  ABU ROAD     -       -  Banas  West flowing rivers of Kutch and Saurashtra including Luni         -            -               -       Banas  24.493611  72.790278      04-06-2005 08:00                                          0.0
+4     5  Abu Road    CWC               8  Rajasthan                115   SIROHI  ABU ROAD     -       -  Banas  West flowing rivers of Kutch and Saurashtra including Luni         -            -               -       Banas  24.493611  72.790278      05-06-2005 08:00                                          0.0
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_tn_2001_2025.csv
+SHAPE: (299129, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo    Station Agency  State LGD Code       State  District LGD Code    District            Tehsil Block Village    River    Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Alandurai    CWC              33  Tamil Nadu                569  Coimbatore  COIMBATORE SOUTH     -       -  Cauvery  Cauvery    Noyyal            -               -      Noyyal  10.951944  76.785278      01-06-2017 08:00                                          0.0
+1     2  Alandurai    CWC              33  Tamil Nadu                569  Coimbatore  COIMBATORE SOUTH     -       -  Cauvery  Cauvery    Noyyal            -               -      Noyyal  10.951944  76.785278      02-06-2017 08:00                                          0.0
+2     3  Alandurai    CWC              33  Tamil Nadu                569  Coimbatore  COIMBATORE SOUTH     -       -  Cauvery  Cauvery    Noyyal            -               -      Noyyal  10.951944  76.785278      03-06-2017 08:00                                          0.0
+3     4  Alandurai    CWC              33  Tamil Nadu                569  Coimbatore  COIMBATORE SOUTH     -       -  Cauvery  Cauvery    Noyyal            -               -      Noyyal  10.951944  76.785278      04-06-2017 08:00                                          0.0
+4     5  Alandurai    CWC              33  Tamil Nadu                569  Coimbatore  COIMBATORE SOUTH     -       -  Cauvery  Cauvery    Noyyal            -               -      Noyyal  10.951944  76.785278      05-06-2017 08:00                                          0.0
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_tr_2001_2025 (1).csv
+SHAPE: (919, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo          Station Agency  State LGD Code    State  District LGD Code       District    Tehsil Block Village River Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Feni G & D Site    CWC              16  Tripura                271  SOUTH TRIPURA  RAJNAGAR     -       -     -     -         -            -               -           -  22.978889  91.682222      23-06-2023 14:00                                        8.148
+1     2  Feni G & D Site    CWC              16  Tripura                271  SOUTH TRIPURA  RAJNAGAR     -       -     -     -         -            -               -           -  22.978889  91.682222      24-06-2023 09:02                                        8.149
+2     3  Feni G & D Site    CWC              16  Tripura                271  SOUTH TRIPURA  RAJNAGAR     -       -     -     -         -            -               -           -  22.978889  91.682222      25-06-2023 08:00                                        8.010
+3     4  Feni G & D Site    CWC              16  Tripura                271  SOUTH TRIPURA  RAJNAGAR     -       -     -     -         -            -               -           -  22.978889  91.682222      26-06-2023 08:27                                        7.596
+4     5  Feni G & D Site    CWC              16  Tripura                271  SOUTH TRIPURA  RAJNAGAR     -       -     -     -         -            -               -           -  22.978889  91.682222      27-06-2023 08:20                                        6.164
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_ts_2001_2025.csv
+SHAPE: (113910, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo              Station Agency  State LGD Code      State  District LGD Code        District       Tehsil Block Village     River     Basin  Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  ALLAM VARI GHANAPUr    CWC              36  Telangana                522  WARANGAL RURAL  ETURNAGARAM     -       -  Godavari  Godavari  Peddavagu            -               -   Peddavagu  18.386111  80.392778      03-07-2017 07:45                                       14.424
+1     2  ALLAM VARI GHANAPUr    CWC              36  Telangana                522  WARANGAL RURAL  ETURNAGARAM     -       -  Godavari  Godavari  Peddavagu            -               -   Peddavagu  18.386111  80.392778      04-07-2017 12:30                                        8.196
+2     3  ALLAM VARI GHANAPUr    CWC              36  Telangana                522  WARANGAL RURAL  ETURNAGARAM     -       -  Godavari  Godavari  Peddavagu            -               -   Peddavagu  18.386111  80.392778      05-07-2017 08:45                                        5.050
+3     4  ALLAM VARI GHANAPUr    CWC              36  Telangana                522  WARANGAL RURAL  ETURNAGARAM     -       -  Godavari  Godavari  Peddavagu            -               -   Peddavagu  18.386111  80.392778      06-07-2017 08:45                                        2.652
+4     5  ALLAM VARI GHANAPUr    CWC              36  Telangana                522  WARANGAL RURAL  ETURNAGARAM     -       -  Godavari  Godavari  Peddavagu            -               -   Peddavagu  18.386111  80.392778      07-07-2017 08:55                                        2.036
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: river_discharge_manual_daily_cwc_wb_2001_2025.csv
+SHAPE: (6906, 20)
+COLUMNS: ['SlNo', 'Station', 'Agency', 'State LGD Code', 'State', 'District LGD Code', 'District', 'Tehsil', 'Block', 'Village', 'River', 'Basin', 'Tributary', 'Subtributary', 'SubSubtributary', 'Local River', 'Latitude', 'Longitude', 'Data Acquisition Time', 'Manual Daily River Water Discharge (m3/sec)']
+DTYPES:
+SlNo                                             int64
+Station                                            str
+Agency                                             str
+State LGD Code                                   int64
+State                                              str
+District LGD Code                                int64
+District                                           str
+Tehsil                                             str
+Block                                              str
+Village                                            str
+River                                              str
+Basin                                              str
+Tributary                                          str
+Subtributary                                       str
+SubSubtributary                                    str
+Local River                                        str
+Latitude                                       float64
+Longitude                                      float64
+Data Acquisition Time                              str
+Manual Daily River Water Discharge (m3/sec)    float64
+dtype: object
+SAMPLE:
+   SlNo   Station Agency  State LGD Code        State  District LGD Code   District     Tehsil Block Village         River         Basin Tributary Subtributary SubSubtributary Local River   Latitude  Longitude Data Acquisition Time  Manual Daily River Water Discharge (m3/sec)
+0     1  Fekoghat    CWC              19  West Bengal                317  MEDINIPUR  MIDNAPORE     -       -  Subarnarekha  Subernarekha    Dulung       Dulang               -      Dulang  22.308611  86.916389      15-06-2001 15:30                                    33.213448
+1     2  Fekoghat    CWC              19  West Bengal                317  MEDINIPUR  MIDNAPORE     -       -  Subarnarekha  Subernarekha    Dulung       Dulang               -      Dulang  22.308611  86.916389      16-06-2001 08:00                                    31.983662
+2     3  Fekoghat    CWC              19  West Bengal                317  MEDINIPUR  MIDNAPORE     -       -  Subarnarekha  Subernarekha    Dulung       Dulang               -      Dulang  22.308611  86.916389      17-06-2001 08:00                                    28.000000
+3     4  Fekoghat    CWC              19  West Bengal                317  MEDINIPUR  MIDNAPORE     -       -  Subarnarekha  Subernarekha    Dulung       Dulang               -      Dulang  22.308611  86.916389      18-06-2001 08:30                                    27.038965
+4     5  Fekoghat    CWC              19  West Bengal                317  MEDINIPUR  MIDNAPORE     -       -  Subarnarekha  Subernarekha    Dulung       Dulang               -      Dulang  22.308611  86.916389      19-06-2001 08:30                                    34.349150
+MISSING:
+SlNo                                           0
+Station                                        0
+Agency                                         0
+State LGD Code                                 0
+State                                          0
+District LGD Code                              0
+District                                       0
+Tehsil                                         0
+Block                                          0
+Village                                        0
+River                                          0
+Basin                                          0
+Tributary                                      0
+Subtributary                                   0
+SubSubtributary                                0
+Local River                                    0
+Latitude                                       0
+Longitude                                      0
+Data Acquisition Time                          0
+Manual Daily River Water Discharge (m3/sec)    0
+
+======================================================================
+FILE: Volumetric Soilmoisture_Daily data for States for 2018-08-01 to 2025-06-30.csv
+SHAPE: (81023, 3)
+COLUMNS: ['Unnamed: 0', 'Unnamed: 1', 'National Water Informatics Centre']
+DTYPES:
+Unnamed: 0                           str
+Unnamed: 1                           str
+National Water Informatics Centre    str
+dtype: object
+SAMPLE:
+  Unnamed: 0 Unnamed: 1                                           National Water Informatics Centre
+0        NaN        NaN  Volumetric Soilmoisture_Daily data for States for 2018-08-01 to 2025-06-30
+1        NaN        NaN                                                Date : 4/11/2026, 8:19:03 pm
+2        NaN        NaN                                                                         NaN
+3        NaN        NaN                                                                         NaN
+4      State       Date                                             Volumetric Soil Moisture (in %)
+MISSING:
+Unnamed: 0                           6
+Unnamed: 1                           7
+National Water Informatics Centre    5

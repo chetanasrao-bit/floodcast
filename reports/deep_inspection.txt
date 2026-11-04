@@ -1,0 +1,203 @@
+
+==========================================================================================
+NETCDF: imdweb_-pMrE_nE.nc
+SIZE MB: 198.462
+
+HDF5 ROOT KEYS: ['rain']
+HDF5 DATASET: rain/lat SHAPE: (105,) DTYPE: float64
+HDF5 DATASET: rain/lon SHAPE: (113,) DTYPE: float64
+HDF5 DATASET: rain/rain SHAPE: (2192, 105, 113) DTYPE: float64
+HDF5 DATASET: rain/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: rain/time SHAPE: (2192,) DTYPE: int64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_bkUWZd5o.nc
+SIZE MB: 64.877
+
+HDF5 ROOT KEYS: ['tmin']
+HDF5 DATASET: tmin/lat SHAPE: (30,) DTYPE: float64
+HDF5 DATASET: tmin/lon SHAPE: (31,) DTYPE: float64
+HDF5 DATASET: tmin/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: tmin/time SHAPE: (9131,) DTYPE: int64
+HDF5 DATASET: tmin/tmin SHAPE: (9131, 30, 31) DTYPE: float64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_N1r752Gu.nc
+SIZE MB: 168.044
+
+HDF5 ROOT KEYS: ['rain']
+HDF5 DATASET: rain/lat SHAPE: (105,) DTYPE: float64
+HDF5 DATASET: rain/lon SHAPE: (113,) DTYPE: float64
+HDF5 DATASET: rain/rain SHAPE: (1856, 105, 113) DTYPE: float64
+HDF5 DATASET: rain/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: rain/time SHAPE: (1856,) DTYPE: int64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_N7kPb8sh.nc
+SIZE MB: 64.877
+
+HDF5 ROOT KEYS: ['tmax']
+HDF5 DATASET: tmax/lat SHAPE: (30,) DTYPE: float64
+HDF5 DATASET: tmax/lon SHAPE: (31,) DTYPE: float64
+HDF5 DATASET: tmax/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: tmax/time SHAPE: (9131,) DTYPE: int64
+HDF5 DATASET: tmax/tmax SHAPE: (9131, 30, 31) DTYPE: float64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_rTaGS9U0.nc
+SIZE MB: 264.459
+
+HDF5 ROOT KEYS: ['rain']
+HDF5 DATASET: rain/lat SHAPE: (105,) DTYPE: float64
+HDF5 DATASET: rain/lon SHAPE: (113,) DTYPE: float64
+HDF5 DATASET: rain/rain SHAPE: (2921, 105, 113) DTYPE: float64
+HDF5 DATASET: rain/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: rain/time SHAPE: (2921,) DTYPE: int64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_syom1z67.nc
+SIZE MB: 231.415
+
+HDF5 ROOT KEYS: ['rain']
+HDF5 DATASET: rain/lat SHAPE: (105,) DTYPE: float64
+HDF5 DATASET: rain/lon SHAPE: (113,) DTYPE: float64
+HDF5 DATASET: rain/rain SHAPE: (2556, 105, 113) DTYPE: float64
+HDF5 DATASET: rain/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: rain/time SHAPE: (2556,) DTYPE: int64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+NETCDF: imdweb_ujtC6eO7.nc
+SIZE MB: 231.415
+
+HDF5 ROOT KEYS: ['rain']
+HDF5 DATASET: rain/lat SHAPE: (105,) DTYPE: float64
+HDF5 DATASET: rain/lon SHAPE: (113,) DTYPE: float64
+HDF5 DATASET: rain/rain SHAPE: (2556, 105, 113) DTYPE: float64
+HDF5 DATASET: rain/spatial_ref SHAPE: () DTYPE: int64
+HDF5 DATASET: rain/time SHAPE: (2556,) DTYPE: int64
+
+ENGINE: netcdf4
+DIMENSIONS: Frozen({})
+VARIABLES: []
+COORDINATES: []
+GLOBAL ATTRIBUTES: {}
+
+==========================================================================================
+SOIL FILE: Volumetric Soilmoisture_Daily data for States for 2018-08-01 to 2025-06-30.csv
+
+FIRST 15 RAW LINES:
+0 ',,National Water Informatics Centre\n'
+1 ',,Volumetric Soilmoisture_Daily data for States for 2018-08-01 to 2025-06-30\n'
+2 ',,"Date : 4/11/2026, 8:19:03 pm"\n'
+3 ',,\n'
+4 ',,\n'
+5 'State,Date,Volumetric Soil Moisture (in %)\n'
+6 'Andhra Pradesh,2018-08-01,21.50\n'
+7 'Andhra Pradesh,2018-08-02,21.82\n'
+8 'Andhra Pradesh,2018-08-03,22.55\n'
+9 'Andhra Pradesh,2018-08-04,22.28\n'
+10 'Andhra Pradesh,2018-08-05,22.53\n'
+11 'Andhra Pradesh,2018-08-06,22.49\n'
+12 'Andhra Pradesh,2018-08-07,24.08\n'
+13 'Andhra Pradesh,2018-08-08,23.80\n'
+14 'Andhra Pradesh,2018-08-09,23.48\n'
+
+SKIPROWS: 0
+SHAPE: (81023, 3)
+COLUMNS: ['Unnamed: 0', 'Unnamed: 1', 'National Water Informatics Centre']
+SAMPLE:
+       Unnamed: 0  Unnamed: 1                                           National Water Informatics Centre
+0             NaN         NaN  Volumetric Soilmoisture_Daily data for States for 2018-08-01 to 2025-06-30
+1             NaN         NaN                                                Date : 4/11/2026, 8:19:03 pm
+2             NaN         NaN                                                                         NaN
+3             NaN         NaN                                                                         NaN
+4           State        Date                                             Volumetric Soil Moisture (in %)
+5  Andhra Pradesh  2018-08-01                                                                       21.50
+6  Andhra Pradesh  2018-08-02                                                                       21.82
+7  Andhra Pradesh  2018-08-03                                                                       22.55
+8  Andhra Pradesh  2018-08-04                                                                       22.28
+9  Andhra Pradesh  2018-08-05                                                                       22.53
+
+SKIPROWS: 4
+SHAPE: (81019, 3)
+COLUMNS: ['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2']
+SAMPLE:
+       Unnamed: 0  Unnamed: 1                       Unnamed: 2
+0           State        Date  Volumetric Soil Moisture (in %)
+1  Andhra Pradesh  2018-08-01                            21.50
+2  Andhra Pradesh  2018-08-02                            21.82
+3  Andhra Pradesh  2018-08-03                            22.55
+4  Andhra Pradesh  2018-08-04                            22.28
+5  Andhra Pradesh  2018-08-05                            22.53
+6  Andhra Pradesh  2018-08-06                            22.49
+7  Andhra Pradesh  2018-08-07                            24.08
+8  Andhra Pradesh  2018-08-08                            23.80
+9  Andhra Pradesh  2018-08-09                            23.48
+
+SKIPROWS: 5
+SHAPE: (81018, 3)
+COLUMNS: ['State', 'Date', 'Volumetric Soil Moisture (in %)']
+SAMPLE:
+            State        Date  Volumetric Soil Moisture (in %)
+0  Andhra Pradesh  2018-08-01                            21.50
+1  Andhra Pradesh  2018-08-02                            21.82
+2  Andhra Pradesh  2018-08-03                            22.55
+3  Andhra Pradesh  2018-08-04                            22.28
+4  Andhra Pradesh  2018-08-05                            22.53
+5  Andhra Pradesh  2018-08-06                            22.49
+6  Andhra Pradesh  2018-08-07                            24.08
+7  Andhra Pradesh  2018-08-08                            23.80
+8  Andhra Pradesh  2018-08-09                            23.48
+9  Andhra Pradesh  2018-08-10                            24.39
+
+SKIPROWS: 6
+SHAPE: (81017, 3)
+COLUMNS: ['Andhra Pradesh', '2018-08-01', '21.50']
+SAMPLE:
+   Andhra Pradesh  2018-08-01  21.50
+0  Andhra Pradesh  2018-08-02  21.82
+1  Andhra Pradesh  2018-08-03  22.55
+2  Andhra Pradesh  2018-08-04  22.28
+3  Andhra Pradesh  2018-08-05  22.53
+4  Andhra Pradesh  2018-08-06  22.49
+5  Andhra Pradesh  2018-08-07  24.08
+6  Andhra Pradesh  2018-08-08  23.80
+7  Andhra Pradesh  2018-08-09  23.48
+8  Andhra Pradesh  2018-08-10  24.39
+9  Andhra Pradesh  2018-08-11  30.47
